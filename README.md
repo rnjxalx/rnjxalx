@@ -167,4 +167,13 @@ Let's make something cool together! 😊<br><br>
 
 
 ![Logo](https://github.com/rnjxalx/rnjxalx/blob/main/github-user-contribution.svg)
+
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/rnjxalx"
+  width="600"
+  height="300"
+/>
+</a>
     
