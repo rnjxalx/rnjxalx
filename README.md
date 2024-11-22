@@ -100,7 +100,11 @@ Having been interested in art since I was young, I majored in AI in university a
 
     
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+    </li>I'm ready to share various ideas and enthusiasm, so feel free to contact me if you have any projects you're interested in! <br><br>
+Let's make something cool together! 😊<br><br>
+</div>
     <div style="text-align: left;"> <a href=https://www.instagram.com/miin_seo/>
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/miin_seo/"> </a>
         <a href="mailto:minseo4077@gmail.com">
