@@ -67,7 +67,7 @@ Having been interested in art since I was young, I majored in AI in university a
                 <h5>Maya Bounce Ball</h5>
                 <ul>
                     <li> Overview : Make a bounding ball with Maya</li>
-                    <li> Achievement : It was set in the movie Ralph, the King of Fist, and filled out design elements. It also achieved high results by producing natural bouncing balls.</li>
+                    <li> Achievement : It was set in the movie Wreck-It Ralph of Fist, and filled out design elements. It also achieved high results by producing natural bouncing balls.</li>
                 </ul>
             </li>
             <li>
@@ -89,7 +89,7 @@ Having been interested in art since I was young, I majored in AI in university a
                 <h5>Making VR games with Cospace</h5>
                 <ul>
                     <li> Overview : Use Cosface to Create Creative Content</li>
-                    <li> Achievement : I created the game with the theme of "Giant of Advance." I wrote the code so that the outcome could vary depending on the player's choice, and I got a high-quality result.</li>
+                    <li> Achievement : I created the game with the theme of "attack Titan" I wrote the code so that the outcome could vary depending on the player's choice, and I got a high-quality result.</li>
                 </ul>
             </li>
             <ul>
