@@ -2,6 +2,12 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4a4c0,100:0061ff&height=180&text=Welcome%20MING%20page&animation=twinkling&fontColor=ffffff&fontSize=60" />
 </div>
 
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=D18CDB&background=38AD9000&center=true&vCenter=true&random=true&width=850&height=60&lines=Dive+into+my+world+of+ideas+and+code%E2%80%94let%E2%80%99s+create+together!+%F0%9F%8C%8D" alt="Typing SVG" /></a>
+</div>
+
+
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐥 About  Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
