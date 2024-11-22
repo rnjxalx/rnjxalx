@@ -6,7 +6,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐥 About  Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
     </li>Hello, I am Minseo Kwon studying art and technology at Chung-Ang University.<br><br>
-Having been interested in art since I was young, I majored in AI in university and became interested in convergence.<br><br> So, I am currently studying art &technology and learning a discipline that combines art and technology. I am deeply interested in design, coding, and graphics, and I am gaining experience through various team projects and individual works.<br><br> </li> My goal is to study how art and engineering are harmonized and use them to create creative content.<br> <br>Thank you. </div> 
+Having been interested in art since I was young, I majored in AI in university and became interested in convergence.<br><br> So, I am currently studying art & technology and learning a discipline that combines art and technology. I am deeply interested in design, coding, and graphics, and I am gaining experience through various team projects and individual works.<br><br> </li> My goal is to study how art and engineering are harmonized and use them to create creative content.<br> <br>Thank you. </div> 
 </div>
 
 <div style="text-align: left;"> 
