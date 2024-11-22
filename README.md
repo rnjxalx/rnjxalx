@@ -51,6 +51,10 @@ Having been interested in art since I was young, I majored in AI in university a
                     <li> Achievement : I was able to make more than 10 flags and handle turtles more skillfully.</li>
                 </ul>
             </li>
+            <br>
+            <a href="https://github.com/rnjxalx/MakeFlagWithTurtle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rnjxalx&repo=MakeFlagWithTurtle" />
+</a>
             <li>
                 <h5>Producing stop-motion images using AI</h5>
                 <ul>
@@ -59,6 +63,10 @@ Having been interested in art since I was young, I majored in AI in university a
                     <li> Achievement : I made a fatal mistake as a director by confusing deadlines, but I quickly planned and distributed roles to achieve high performance. The finished product achieved a perfect high performance from planning.</li>
                 </ul>
             </li>
+            <br>
+            <a href="https://github.com/rnjxalx/ConceptStudio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rnjxalx&repo=ConceptStudio" />
+</a>
             <li>
                 <h5>Team Introduction 7 Second Video Work</h5>
                 <ul>
@@ -67,6 +75,10 @@ Having been interested in art since I was young, I majored in AI in university a
                     <li> Achievement : This allowed me to study and perform Premier Pro, and to develop my ability to lead the team. I also got high marks for producing a perfect 7-second video.</li>
                 </ul>
             </li>
+            <br>
+            <a href="https://github.com/rnjxalx/ConceptStudio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rnjxalx&repo=ConceptStudio" />
+</a>
             <li>
                 <h5>Maya Bounce Ball</h5>
                 <ul>
@@ -74,6 +86,10 @@ Having been interested in art since I was young, I majored in AI in university a
                     <li> Achievement : It was set in the movie Wreck-It Ralph of Fist, and filled out design elements. It also achieved high results by producing natural bouncing balls.</li>
                 </ul>
             </li>
+            <br>
+            <a href="https://github.com/rnjxalx/MayaPrac">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rnjxalx&repo=MayaPrac" />
+</a>
             <li>
                 <h5>Project Planning for Graduation Works</h5>
                 <ul>
@@ -82,6 +98,10 @@ Having been interested in art since I was young, I majored in AI in university a
                     <li> Achievement : I was in charge of UI and produced the expected company logo. I achieved high results by making the project creative and actionable.</li>
                 </ul>
             </li>
+            <br>
+            <a href="https://github.com/rnjxalx/BeatBayProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rnjxalx&repo=BeatBayProject" />
+</a>
             <li>
                 <h5>Create a game with Python</h5>
                 <ul>
@@ -89,6 +109,10 @@ Having been interested in art since I was young, I majored in AI in university a
                     <li> Achievement : With the theme of the YouTube animation, "Bbang-bbang's Daily Life," we created a game where a bbang avoids the jade falling from the sky. We created a game that made it possible to code and try again so that we could know our scores and achieved high results.</li>
                 </ul>
             </li>
+            <br>
+            <a href="https://github.com/rnjxalx/PygamePrac">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rnjxalx&repo=PygamePrac" />
+</a>
             <li>
                 <h5>Making VR games with Cospace</h5>
                 <ul>
@@ -96,6 +120,10 @@ Having been interested in art since I was young, I majored in AI in university a
                     <li> Achievement : I created the game with the theme of "attack Titan" I wrote the code so that the outcome could vary depending on the player's choice, and I got a high-quality result.</li>
                 </ul>
             </li>
+            <br>
+             <a href="https://github.com/rnjxalx/CospacesGame">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rnjxalx&repo=CospacesGame" />
+</a>
             <ul>
         </ul>
     </div> 
