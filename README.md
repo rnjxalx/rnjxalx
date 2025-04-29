@@ -38,7 +38,6 @@ Having been interested in art since I was young, I majored in AI in university a
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
           <img src="https://img.shields.io/badge/-Autodesk Maya-37A5CC?style=flat&logo=autodeskmaya&logoColor=white"/>
           </div>
     </div>    
